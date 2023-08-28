@@ -21,3 +21,20 @@ nav > a {
   color: white;
   margin: 0 10px;
 }
+
+/* Main Section */
+section {
+  margin: 15px 10px;
+}
+
+/* Main Section - Profile */
+.profile {
+  display: flex;
+  gap: 5px;
+  align-items: center;
+}
+
+.profile > img {
+  width: 100px;
+  border-radius: 50%;
+}
